@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Adimas Prakoso 👋
 
-<!--
-**AdimasProject/AdimasProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 Jakarta, Indonesia
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adimas.prakoso8@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Web Developer with 2 years experience. Interested in user interface design, street photography enthusiast and love to create something simple.
+
+### My GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdimasProject&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdimasProject&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+__Thanks for coming to my little place on GitHub__ 😁
