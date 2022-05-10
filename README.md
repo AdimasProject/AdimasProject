@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adimas.prakoso8@gmail.com)
 
 
-Web Developer with 2 years experience. Interested in user interface design, and love to create something simple.
+Developer with no experience. Interested in user interface design, and love to create something simple.
 
 ### My GitHub Stats
 
