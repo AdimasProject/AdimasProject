@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [REST API](https://google.com)
 
-- 👨‍💻 All of my projects are available at [AdimasProject.github.io](AdimasProject.github.io)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/AdimasProject?tab=repositories)
 
-- 💬 Ask me about **React,vue**
+- 💬 Ask me about **NODE.JS**
 
 - 📫 How to reach me **adimasproject.api@gmail.com**
 
