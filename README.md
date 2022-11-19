@@ -37,7 +37,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adimasproject"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adimasproject" /></a><a href="https://ko-fi.com/adimasproject"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adimasproject" /></a></p><br><br>
 
-<br><h3 align="left">Portofolio</h3>
 <p><a href="https://AdimasProject.github.io"> <img align="left" src="https://images.webestools.com/buttons.php?frm=1&btn_type=46&txt=PORTOFOLIO%201" height="50" alt="adimasproject" /><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimasproject&show_icons=true&locale=en&layout=compact" alt="adimasproject" /></p>
